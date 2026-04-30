@@ -85,6 +85,7 @@ Bot yang sudah tidak aktif agar dihapus atau dicoret.
 - [English Chatbot](https://t.me/TokisakiChatBot) -- Simple and Fast Chatbot. [Repository](https://t.me/zYxDevs/KurumiChatbot).
 - [Anime Info Robot](https://t.me/TomoeRobot) -- Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to [AniList](https://anilist.co) account.
 - [Asuna Yuuki](https://t.me/YogaWaifuBot) -- Group Management Bot with many features, [check here](https://t.me/YogaWaifuBot?start=help).
+- [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### Group / Channel
 
